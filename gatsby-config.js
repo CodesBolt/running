@@ -1,19 +1,19 @@
 module.exports = {
   pathPrefix: '/running_page', // Change to `/running_page` when running on github pages
   siteMetadata: {
-    siteTitle: '丁小山 跑步',
+    siteTitle: '丁小山跑步',
     siteUrl: 'http://thetime.space',
     logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
     description: 'Personal site and blog',
     navLinks: [
       {
-        name: '主页',
-        url: 'https://conge.github.io',
+        name: 'Blog',
+        url: 'https://linktr.ee/app.le',
       },
       /*{
         name: '书影音',
         url: 'https://conge.github.io/books/',
-      },*/
+      },
       {
         name: '跑步周记',
         url: 'https://conge.github.io/category/#%E6%8A%98%E8%BF%94%E7%82%B9',
@@ -21,10 +21,10 @@ module.exports = {
       {
         name: '育儿周记',
         url: 'https://conge.github.io/category/#%E7%88%B6%E8%8C%83%E5%AD%A6%E5%A0%82',
-      },
+      },*/
       {
-        name: '关于',
-        url: 'https://conge.github.io/about',
+        name: 'About',
+        url: 'https://mp.weixin.qq.com/s/bXC6TQ-quYRiPB7lOuQKAw',
       },
     ],
   },
