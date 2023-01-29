@@ -58,6 +58,7 @@ jobs:
           build_dir: public
           # Write the given domain name to the CNAME file
           #fqdn: custom.domain.name # optional
+          fqdn: http://thetime.space
           # Prevent Jekyll from building the site
           jekyll: false
         env:
