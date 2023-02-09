@@ -1,9 +1,9 @@
 module.exports = {
   pathPrefix: '/running_page', // Change to `/running_page` when running on github pages
   siteMetadata: {
-    siteTitle: '丁小山跑步',
-    siteUrl: 'http://thetime.space',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+    siteTitle: '丁小山❤️跑步',
+    siteUrl: 'https://thetime.space',
+    logo: 'https://s3.bmp.ovh/imgs/2023/02/09/4f2c07dfc7841b8c.jpg',
     description: 'Personal site and blog',
     navLinks: [
       {
