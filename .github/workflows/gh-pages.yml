@@ -60,6 +60,7 @@ jobs:
           #fqdn: custom.domain.name # optional
           fqdn: https://thetime.space
           # Prevent Jekyll from building the site
-          jekyll: false
+          jekyll: true 
+          #2024-9-13 modified 
         env:
           GITHUB_TOKEN: ${{ secrets.G_T }}
